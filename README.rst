@@ -16,7 +16,7 @@ Usage
 
 .. code-block:: python
 
-    from pdf2redmine import read_and_upload
+    from pdf2redmine.main import read_and_upload
     redmine_url = '<your-redmine-server-url>'
     redmine_key = '<your-redmine-api-access-key>'
     redmine_project_id = '<your-remine-project-id>'
